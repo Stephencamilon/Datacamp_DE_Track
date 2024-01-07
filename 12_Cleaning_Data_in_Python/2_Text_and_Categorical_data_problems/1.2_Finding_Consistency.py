@@ -1,6 +1,8 @@
 '''
-Create a set out of the cleanliness column in airlines using set() and find the inconsistent category by finding the difference in the cleanliness column of categories.
-Find rows of airlines with a cleanliness value not in categories and print the output.
+Instructions:
+
+1. Create a set out of the cleanliness column in airlines using set() and find the inconsistent category by finding the difference in the cleanliness column of categories.
+2. Find rows of airlines with a cleanliness value not in categories and print the output.
 '''
 
 # Find the cleanliness category in airlines not in categories
