@@ -14,3 +14,6 @@ print(airlines[cat_clean_rows])
 
 # Print rows with consistent categories only
 print(airlines[~cat_clean_rows])
+
+
+# ~ is a bitwise NOT operator used to negate/filter inconsistent categories. 
