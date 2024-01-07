@@ -1,6 +1,8 @@
 '''
-Print the categories DataFrame and take a close look at all possible correct categories of the survey columns.
-Print the unique values of the survey columns in airlines using the .unique() method.
+Instructions:
+
+1. Print the categories DataFrame and take a close look at all possible correct categories of the survey columns.
+2. Print the unique values of the survey columns in airlines using the .unique() method.
 '''
 
 # Print categories DataFrame
