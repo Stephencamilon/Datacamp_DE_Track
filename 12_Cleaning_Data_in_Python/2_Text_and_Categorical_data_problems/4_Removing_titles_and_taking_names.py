@@ -1,5 +1,4 @@
 '''
-
 Instructions:
 1. Remove "Dr.", "Mr.", "Miss" and "Ms." from full_name by replacing them with an empty string "" in that order.
 2. Run the assert statement using .str.contains() that tests whether full_name still contains any of the honorifics.
