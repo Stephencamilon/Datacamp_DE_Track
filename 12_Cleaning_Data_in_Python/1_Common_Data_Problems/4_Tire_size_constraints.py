@@ -1,5 +1,5 @@
 """
-Instructins:
+Instructions:
 
 1. Convert ride_date to a datetime object using to_datetime(), then convert the datetime object into a date and store it in ride_dt column.
 2. Create the variable today, which stores today's date by using the dt.date.today() function.
