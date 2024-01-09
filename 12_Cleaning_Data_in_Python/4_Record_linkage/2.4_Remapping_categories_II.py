@@ -1,5 +1,4 @@
 '''
-
 Instructions:
 
 Using the variable cuisine to iterate through categories, embed your code from the previous step in an outer for loop.
